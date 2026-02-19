@@ -17,6 +17,10 @@ The goal is to identify profitable regions, customer segments, and product categ
 - Matplotlib  
 - Jupyter Notebook (VS Code)
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+
 ## Outcome
 Identified high-performing regions, valuable customer segments, and profitable product categories to support marketing decision-making.  
 Created a visual dashboard to present insights clearly.
