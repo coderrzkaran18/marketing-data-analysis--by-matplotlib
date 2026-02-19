@@ -18,7 +18,7 @@ The goal is to identify profitable regions, customer segments, and product categ
 - Jupyter Notebook (VS Code)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](marketing_dashboard.png)
 
 
 ## Outcome
